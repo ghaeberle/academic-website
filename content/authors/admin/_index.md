@@ -21,6 +21,7 @@ bio: I am interested in the topography and specificity of middle and higher leve
 # Interests to show in About widget
 interests:
 - Cognitive Neuroscience
+- Vision
 - fMRI
 - EEG
 - Eyetracking
