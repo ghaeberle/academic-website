@@ -76,4 +76,10 @@ email: ""
 highlight_name: false
 ---
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a PhD candidate at Free University Berlin in the Neural Dynamics of Visual Cognition Group, led by Dr. Radoslaw M. Cichy. I am supported by the Einstein Center for Neurosciences and the Berlin School of Mind and Brain. 
+
+In my research I am interested in the specificity and topography of lower and higher level visual cortex. When we look around us, what we see is translated into signals that are processed in the occipital part of our brain, the visual system. Previous research has shown, that the core regions responsible for the recognition of objects are organized in a hierarchical fashion in the so-called ventral visual stream. However, how exactly these areas represent objects remains ill understood. While topography (how neurons are arranged on the cortical sheet) is relatively well understood in lower and middle visual areas, specificity (what aspects of the visual information do neurons respond to) is not. This pattern is reversed for higher visual areas. During my PhD I aim to further deepen this understanding in both low and high visual areas, using a combination of EEG, fMRI and Deep Neural Networks. 
+
+I am additionallt interested in the effect of eye movements on EEG data.
+
+
